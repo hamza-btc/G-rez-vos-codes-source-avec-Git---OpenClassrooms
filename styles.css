@@ -1,0 +1,22 @@
+body {
+  background-color:#eee;
+}
+
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: red;
+}
+
+.git {
+  text-align: center;
+  margin: 10% auto;
+
+}
+
+p {
+  color: green;
+  font-weight: bold;
+}
